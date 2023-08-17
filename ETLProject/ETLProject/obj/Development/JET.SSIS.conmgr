@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JET.SSIS"
+  DTS:DTSID="{E659D7F0-FE57-4E0E-A571-A7EEC2093FE5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=JET;Initial Catalog=SSIS;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-ETLProject-{E659D7F0-FE57-4E0E-A571-A7EEC2093FE5}JET.SSIS;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
