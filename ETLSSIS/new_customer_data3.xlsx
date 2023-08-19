@@ -1,0 +1,16 @@
+CustomerID,NameStyle,Title,FirstName,MiddleName,LastName,Suffix,CompanyName,SalesPerson,EmailAddress,Phone,AddressID,AddressLine1,AddressLine2,City,StateProvidence,CountryRegion,PostalCode,AddressType
+30118,0,Mr.,Derek,D.,Carr,,Saints,adventure-works\josé1,Derek.carr@nfl.com,504-199-1014,1106,7823 Saxophone rd.,,New Orleans,Louisiana,United States,84613,Main Office
+30119,0,Ms.,Lisa,J.,Simpson,,Fox,adventure-works\garrett1,LisaSimp@fox.com,916-555-8752,1107,742 Evergreen Terrace,,Springfield,California,United States,95815,Main Office
+30120,0,Ms.,Turanga,K.,Leela,,Planet Express,adventure-works\jae0,LeelaT@PlanetExpress.com,790-456-9836,1108,57th Street,,New York,New York,United States,10001,Shipping
+30121,0,Mr.,Kobe,B.,Bryant,,Lakers,adventure-works\michael9,BeanBryant@nba.com,569-852-0918,1109,3382 Oxford rd.,,Los Angeles,California,United States,95682,Main Office
+30122,0,Ms.,Tommy,A.,Shelby,,Shelby ltd.,adventure-works\pamela0,tommys@shelby.com,978-248-5924,1110,23 King George's Drive,,Port Sunlight,Wirral,Untied Kingdom,CH62 5DX,Main Office
+30123,0,Ms.,Misty,A.,Brock,,Cerulean Gym,adventure-works\shu0,misty@pokeGym.com,323-978-1295,1111,490 Water Way,,Galveston,Texas,United States,77550,Shipping
+30124,0,Mr.,Brock,A.,Misty,,Pewter Gym,adventure-works\david8,Brock@pokeGym.com,679-472-2375,1112,7983 Rock court,,Keystone,South Dakota,United States,57751,Main Office
+30125,0,Ms.,Angelica,N.,Pickles,,Nick Jr.,adventure-works\michael9,Angelica@nickJr.com,522-002-4582,1113,1258 N. Highland,,Halifax,Nova Scotia,Canada,B0J B3A,Main Office
+30126,0,Mr.,Ash,M.,Ketchum,,Pokemon Master,adventure-works\linda3,Ash@pokeMaster.com,543-235-6882,1114,1996 Kanto Road,,Portland,Oregon,United States,97001,Main Office
+30127,0,Mr.,Chris,M.,Webber,,Kings,adventure-works\josé1,BeanWebber@nba.com,573-332-4444,1115,9585 Alamos ave.,,Sacramento,California,United States,95815,Main Office
+30128,0,Ms.,Meg,L.,Griffin,,Bobs Burgers,adventure-works\shu0,Meg@BobsBurgers.com,954-245-9573,1116, 27 Spooner Street,,Providence,rhode island,United States,02901,Main Office
+30129,0,Mr.,Bender,B.,Rodríguez ,,Planet Express,adventure-works\jae0,BenderR@PlanetExpress.com,790-327-9852,1117,57th Street,,New York,New York,United States,10001,Shipping
+30130,0,Ms.,Edna,C.,Krabappel,,SpringField Elementary ,adventure-works\garrett1,Edna@pokeElementary.com,916-555-0539,1118,843 Evergreen Terrace,,Sprinfield,California,United States,95815,Main Office
+30131,0,Mr.,Philip,J.,Fry,,Planet Express,adventure-works\jae0,FryP@PlanetExpress.com,790-592-0174,1119,57th Street,,New York,New York,United States,10001,Main Office
+,,,,,,,,,,,,,,,,,,
