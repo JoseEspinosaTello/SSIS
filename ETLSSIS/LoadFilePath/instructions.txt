@@ -1,0 +1,3 @@
+This folder contains the data that will be loaded to the database by dataflow task "Load data from Excel to Database."
+The excel file must always be named new_customer_data.xlsx as it is the excel source in the dataflow. If the name changes the dataflow will fail.
+There are multiple script task maintaining the integrity of the files.
