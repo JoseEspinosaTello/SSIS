@@ -21,6 +21,6 @@ Applications/Technologies:
 The SSIS packages is designed to automate the ETL process and consist of 5 script tasks and 6 dataflow tasks. The script tasks extract and copy files to the folders used by the dataflow tasks. The script tasks also maintain file integrity by ensuring there are clean files where needed and files are not overwritten. The data flow tasks are broken up into two groups; Excel source dataflow tasks and OLEDB dataflow tasks. the Excel source dataflow tasks upload data to the database tables and the OLEDB dataflow task generate an Excel sheet summary of the uploaded data to confirm the ETL process has completed.
 
 
-
+![package](https://github.com/JoseEspinosaTello/SSIS/blob/main/Snaps/SSISPackage.png)
 
 #Script tasks
